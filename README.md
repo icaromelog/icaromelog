@@ -23,7 +23,7 @@
 ## Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,vue,angular,html,css,tailwind,nodejs,express,nestjs,graphql,aws,jest,git,github,vite,figma" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,vue,angular,html,css,tailwind,nodejs,express,nestjs,graphql,aws,jest,vite,vitest,prisma,figma" />
 </p>
 
 
