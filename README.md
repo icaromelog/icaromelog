@@ -14,7 +14,6 @@
 ## About Me
 
 - 💻 8+ years building production web applications  
-- ⚛️ Strong focus on **React, TypeScript, Next.js**  
 - 🧠 Passionate about **architecture, performance & scalable frontend systems**  
 - 🌍 I'm based in Curitiba / Brazil  
 - ✉️ You can contact me at **icaromelog@gmail.com**
